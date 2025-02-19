@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: "CyberCypher Blog"
+description: "Exploring the world of cybersecurity."
+show_downloads: false
