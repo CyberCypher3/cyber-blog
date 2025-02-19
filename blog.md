@@ -1,6 +1,8 @@
----\nlayout: default\ntitle: Blog\n---\n\n{% for post in site.posts %}\n- [{{ post.title }}]({{ post.url }}) ({{ post.date | date: '%B %d, %Y' }})\n{% endfor %}
-# Welcome to My Cybersecurity Blog
+---
+layout: default
+title: Blog
+---
 
-Check out my latest posts:
-
-[View Blog](blog.md)
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }}) ({{ post.date | date: '%B %d, %Y' }})
+{% endfor %}
