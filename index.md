@@ -1,2 +1,3 @@
 # Welcome to My Cybersecurity Blog
-This is my first post about cybersecurity.
+## 📌 About Me  
+[Learn more about me](about.md)
