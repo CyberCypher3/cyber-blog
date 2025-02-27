@@ -6,3 +6,4 @@ show_downloads: false
 # Enable Jekyll Blog System
 plugins:
   - jekyll-feed
+future: true
