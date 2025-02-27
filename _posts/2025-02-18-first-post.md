@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'My First Cybersecurity Blog Post'
+title: "My First Cybersecurity Blog Post"
 date: 2025-02-18
+author: "Zalman"
 ---
 
 Blog Post #1 - Welcome!
