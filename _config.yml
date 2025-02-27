@@ -14,3 +14,7 @@ future: true
 
 permalink: /blog/:title.html
 
+exclude:
+  - .jekyll-cache
+  - _site
+
