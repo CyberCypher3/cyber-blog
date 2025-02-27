@@ -18,3 +18,4 @@ exclude:
   - .jekyll-cache
   - _site
 
+baseurl: "/cyber-blog"
