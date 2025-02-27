@@ -6,4 +6,9 @@ show_downloads: false
 # Enable Jekyll Blog System
 plugins:
   - jekyll-feed
+
+# Ensure future-dated posts are displayed
 future: true
+
+# Fix duplicate 'future' setting
+permalink: /blog/:year/:month/:day/:title.html
